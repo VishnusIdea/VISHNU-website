@@ -67,7 +67,7 @@ button{
 @media screen and (max-width: 600px)
 {
     .main{
-        background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5),rgb(0,0,0,0.5),rgb(0,0,0,0.5)),  url(vmobailbg.png);
+        background-image: url(vmobilbg.png);
         background-color: blue;
        background-repeat: no-repeat ;
        background-size:cover;
