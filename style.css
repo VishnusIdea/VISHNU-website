@@ -4,7 +4,7 @@
     padding: 0;
 }
 .main{
-        background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5),rgb(0,0,0,0.5),rgb(0,0,0,0.5)),  url(vishnu\ background.png);
+        background-image:  url(vishnu\ background.png);
         background-color: blue;
        background-repeat: no-repeat ;
        background-size:cover;
@@ -62,7 +62,13 @@ button{
     background-color:black;
 }
    
-   
+.design{
+    height: 288px;
+    width: 41px;
+    float: right;
+    margin-top: -418px;
+    margin-right: 644px;
+}  
 
 @media screen and (max-width: 600px)
 {
@@ -128,6 +134,6 @@ button{
         background-color:black;
     }
     
-       
-       
+    
+    
 }
