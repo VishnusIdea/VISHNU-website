@@ -67,7 +67,7 @@ button{
 @media screen and (max-width: 600px)
 {
     .main{
-        background-image: url(vmobilbg.png);
+        background-image: url(vbg.png);
         background-color: blue;
        background-repeat: no-repeat ;
        background-size:cover;
