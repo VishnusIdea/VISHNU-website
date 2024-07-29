@@ -1,0 +1,116 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+        background-image:  url(vishnu\ background.png);
+        background-color: blue;
+       background-repeat: no-repeat ;
+       background-size:cover;
+        height: 100vh;
+        min-width: 100px;   
+    }
+
+.links{
+    margin: auto;
+     }
+button{
+    padding: 10px 16px;
+    margin: 20px;
+    font-size:1em ;
+    font-family:sans-serif ;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    transition: .4s ease-in;
+}
+.button1:hover{
+    background-color:black;
+}
+   
+.button2:hover{
+    background-color: black;
+}
+.button3:hover{
+    background-color: black;   
+}
+.button4:hover{
+    background-color: black;
+}
+.button5:hover{
+    background-color: black;
+}
+.button6:hover{
+    background-color:black;
+}
+.button7:hover{
+    background-color:black;
+}
+
+.vbutton:hover{
+    background-color:black;
+}
+
+
+
+
+
+
+@media screen and (max-width: 600px)
+{
+    .main{
+        background-image: url(vbg.png);
+        background-color: blue;
+       background-repeat: no-repeat ;
+       background-size:cover;
+        height: 57vh;
+        width: 412px;
+    }
+
+    .links{
+        margin: auto;
+         }
+    button{
+        padding: 10px 16px;
+        margin: 20px;
+        font-size:1em ;
+        font-family:sans-serif ;
+        font-weight: bold;
+        cursor: pointer;
+        border: none;
+        transition: .4s ease-in;
+    }
+    .button1:hover{
+        background-color:black;
+    }
+       
+    .button2:hover{
+        background-color: black;
+    }
+    .button3:hover{
+        background-color: black;   
+    }
+    .button4:hover{
+        background-color: black;
+    }
+    .button5:hover{
+        background-color: black;
+    }
+    .button6:hover{
+        background-color:black;
+    }
+    .button7:hover{
+        background-color:black;
+    }
+    
+    .vishnu{
+        margin: auto;
+         }
+    .vbutton:hover{
+        background-color:black;
+    }
+    
+    
+    
+}
